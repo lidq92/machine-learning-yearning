@@ -3,7 +3,7 @@
 [How do you organize an AI project?](How-do-you-organize-an-AI-project.md)
 1. [Why Machine Learning Strategy](why-machine-learning-strategy.md) 
 TODO
-2. How to use this book to help your team 
+2. [How to use this book to help your team](how-to-use-this-book-to-help-your-team.md)
 3. Prerequisites and Notation 
 4. Scale drives machine learning progress 
 5. Your development and test sets 
@@ -22,3 +22,13 @@ TODO
 18. How big should the Eyeball and Blackbox dev sets be? 
 19. Takeaways: Basic error analysis 
 20. ...
+
+### 英文原文
+
+当前更新到了19章，详见 `draft copy of machine learning yearning` 目录：
+
+[Introduction](draft copy of machine learning yearning/introduction.md)
+
+[Chapter 1-14](draft copy of machine learning yearning/Ng_MLY01-01-14.pdf)
+
+[Chapter 15-19](draft copy of machine learning yearning/Ng_MLY02-15-19.pdf)
