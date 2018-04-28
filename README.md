@@ -1,11 +1,12 @@
 # Machine Learning Yearning 机器学习秘籍
-## Chinese Translation of [Machine Learning Yearning]((http://www.mlyearning.org/)) by [Andrew Ng](http://www.andrewng.org/)
+## Chinese Translation of [Machine Learning Yearning](http://www.mlyearning.org/) by [Andrew Ng](http://www.andrewng.org/)
 [How do you organize an AI project?](How-do-you-organize-an-AI-project.md)
 1. [Why Machine Learning Strategy](1.why-machine-learning-strategy.md) 
 2. [How to use this book to help your team](2.how-to-use-this-book-to-help-your-team.md)
 3. [Prerequisites and Notation](3.prerequisites-and-notation.md)
 4. [Scale drives machine learning progress](4.scale-drives-machine-learning-progress.md)
 5. [Your development and test sets](5.your-development-and-test-sets.md)
+
 TODO
 6. [Your dev and test sets should come from the same distribution]()
 7. [How large do the dev/test sets need to be?]()
@@ -14,6 +15,7 @@ TODO
 10. [Having a dev set and metric speeds up iterations]()
 11. [When to change dev/test sets and metrics]()
 12. [Takeaways: Setting up development and test sets]()
+
 TODO-TODO
 13. Build your first system quickly, then iterate 
 14. Error analysis: Look at dev set examples to evaluate ideas 
