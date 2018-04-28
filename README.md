@@ -1,7 +1,8 @@
 # Machine Learning Yearning
 ## Chinese Translation of [Machine Learning Yearning]((http://www.mlyearning.org/)) by [Andrew NG](http://www.andrewng.org/)
-TODO
+[How do you organize an AI project?](How-do-you-organize-an-AI-project.md)
 1. [Why Machine Learning Strategy](why-machine-learning-strategy.md) 
+TODO
 2. How to use this book to help your team 
 3. Prerequisites and Notation 
 4. Scale drives machine learning progress 
