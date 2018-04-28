@@ -22,6 +22,9 @@
 19. Takeaways: Basic error analysis 
 20. ...
 
+TO IMPROVE:
+- Write Math Equations with MathJax
+
 ### 英文原文
 
 当前更新到了19章，详见 `draft copy of machine learning yearning` 目录：
