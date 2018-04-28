@@ -1,7 +1,7 @@
 # Machine Learning Yearning
 ## Chinese Translation of [Machine Learning Yearning]((http://www.mlyearning.org/)) by [Andrew NG](http://www.andrewng.org/)
 TODO
-1. Why Machine Learning Strategy 
+1. [Why Machine Learning Strategy](why-machine-learning-strategy.md) 
 2. How to use this book to help your team 
 3. Prerequisites and Notation 
 4. Scale drives machine learning progress 
