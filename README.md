@@ -1,11 +1,11 @@
-# Machine Learning Yearning
+# Machine Learning Yearning 机器学习秘籍
 ## Chinese Translation of [Machine Learning Yearning]((http://www.mlyearning.org/)) by [Andrew NG](http://www.andrewng.org/)
 [How do you organize an AI project?](How-do-you-organize-an-AI-project.md)
-1. [Why Machine Learning Strategy](why-machine-learning-strategy.md) 
-2. [How to use this book to help your team](how-to-use-this-book-to-help-your-team.md)
-3. [Prerequisites and Notation](prerequisites-and-notation.md)
+1. [Why Machine Learning Strategy](1.why-machine-learning-strategy.md) 
+2. [How to use this book to help your team](2.how-to-use-this-book-to-help-your-team.md)
+3. [Prerequisites and Notation](3.prerequisites-and-notation.md)
+4. [Scale drives machine learning progress](4.scale-drives-machine-learning-progress.md)
 TODO
-4. Scale drives machine learning progress 
 5. Your development and test sets 
 6. Your dev and test sets should come from the same distribution 
 7. How large do the dev/test sets need to be? 
