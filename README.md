@@ -5,8 +5,8 @@
 2. [How to use this book to help your team](2.how-to-use-this-book-to-help-your-team.md)
 3. [Prerequisites and Notation](3.prerequisites-and-notation.md)
 4. [Scale drives machine learning progress](4.scale-drives-machine-learning-progress.md)
-5. [Your development and test sets](5.your-development-and-test-sets.md) **Update to Here**
-6. [Your dev and test sets should come from the same distribution]()
+5. [Your development and test sets](5.your-development-and-test-sets.md)
+6. [Your dev and test sets should come from the same distribution](6.your-dev -and-test-sets-should-come-from-the-same-distribution.md) **Update to Here**
 7. [How large do the dev/test sets need to be?]()
 8. [Establish a single-number evaluation metric for your team to optimize]()
 9. [Optimizing and satisficing metrics]()
