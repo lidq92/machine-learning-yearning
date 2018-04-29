@@ -6,8 +6,8 @@
 3. [Prerequisites and Notation](3.prerequisites-and-notation.md)
 4. [Scale drives machine learning progress](4.scale-drives-machine-learning-progress.md)
 5. [Your development and test sets](5.your-development-and-test-sets.md)
-6. [Your dev and test sets should come from the same distribution](6.your-dev-and-test-sets-should-come-from-the-same-distribution.md) **Update to Here**
-7. [How large do the dev/test sets need to be?]()
+6. [Your dev and test sets should come from the same distribution](6.your-dev-and-test-sets-should-come-from-the-same-distribution.md)
+7. [How large do the dev/test sets need to be?](7.how-large-do-the-dev-and-test-sets-need-to-be.md) **Update to Here**
 8. [Establish a single-number evaluation metric for your team to optimize]()
 9. [Optimizing and satisficing metrics]()
 10. [Having a dev set and metric speeds up iterations]()
@@ -23,7 +23,7 @@
 20. ...
 
 TO IMPROVE:
-- Write Math Equations with MathJax
+- Write Math Equations with MathJax, HTML.
 
 ### 英文原文
 
