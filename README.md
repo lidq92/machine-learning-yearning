@@ -8,18 +8,18 @@
 5. [Your development and test sets](5.your-development-and-test-sets.md)
 6. [Your dev and test sets should come from the same distribution](6.your-dev-and-test-sets-should-come-from-the-same-distribution.md)
 7. [How large do the dev/test sets need to be?](7.how-large-do-the-dev-and-test-sets-need-to-be.md) **Update to Here**
-8. [Establish a single-number evaluation metric for your team to optimize]()
-9. [Optimizing and satisficing metrics]()
-10. [Having a dev set and metric speeds up iterations]()
-11. [When to change dev/test sets and metrics]()
-12. [Takeaways: Setting up development and test sets]()
-13. Build your first system quickly, then iterate 
-14. Error analysis: Look at dev set examples to evaluate ideas 
-15. Evaluating multiple ideas in parallel during error analysis 
-16. Cleaning up mislabeled dev and test set examples 
-17. If you have a large dev set, split it into two subsets, only one of which you look at 
-18. How big should the Eyeball and Blackbox dev sets be? 
-19. Takeaways: Basic error analysis 
+8. [Establish a single-number evaluation metric for your team to optimize](8.establish-a-single-number-evaluation-metric-for-your-team-to-optimize.md)
+9. [Optimizing and satisficing metrics](9.optimizing-and-satisficing-metrics.md)
+10. [Having a dev set and metric speeds up iterations](10.having-a-dev-set-and-metric-speeds-up-iterations.md)
+11. [When to change dev/test sets and metrics](11.when-to-change-dev-and-test-sets-and-metrics.md)
+12. [Takeaways: Setting up development and test sets](12.takeaways_setting-up-development-and-test-sets.md)
+13. [Build your first system quickly, then iterate]()
+14. [Error analysis: Look at dev set examples to evaluate ideas]()
+15. [Evaluating multiple ideas in parallel during error analysis]()
+16. [Cleaning up mislabeled dev and test set examples]()
+17. [If you have a large dev set, split it into two subsets, only one of which you look at]()
+18. [How big should the Eyeball and Blackbox dev sets be?]()
+19. [Takeaways: Basic error analysis]() 
 20. ...
 
 TO IMPROVE:
