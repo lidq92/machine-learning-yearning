@@ -29,12 +29,12 @@ TO IMPROVE:
 
 ### 英文原文
 
-当前更新到了22章，详见 `draft copy of machine learning yearning` 目录：
+当前更新到了22章，详见 `draft-copy-of-machine-learning-yearning` 目录：
 
-[Introduction](draft copy of machine learning yearning/introduction.md)
+[Introduction](draft-copy-of-machine-learning-yearning/introduction.md)
 
-[Chapter 1-14](draft copy of machine learning yearning/Ng_MLY01-01-14.pdf)
+[Chapter 1-14](draft-copy-of-machine-learning-yearning/Ng_MLY01-01-14.pdf)
 
-[Chapter 15-19](draft copy of machine learning yearning/Ng_MLY02-15-19.pdf)
+[Chapter 15-19](draft-copy-of-machine-learning-yearning/Ng_MLY02-15-19.pdf)
 
-[Chapter 20-22](draft copy of machine learning yearning/Ng_MLY03-20-22.pdf)
+[Chapter 20-22](draft-copy-of-machine-learning-yearning/Ng_MLY03-20-22.pdf)
