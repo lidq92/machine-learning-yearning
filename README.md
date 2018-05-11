@@ -12,8 +12,8 @@
 9. [Optimizing and satisficing metrics](9.optimizing-and-satisficing-metrics.md)
 10. [Having a dev set and metric speeds up iterations](10.having-a-dev-set-and-metric-speeds-up-iterations.md)
 11. [When to change dev/test sets and metrics](11.when-to-change-dev-and-test-sets-and-metrics.md)
-12. [Takeaways: Setting up development and test sets](12.takeaways_setting-up-development-and-test-sets.md) **Update to Here**
-13. [Build your first system quickly, then iterate](13.build-your-first-system-quickly-then-iterate.md)
+12. [Takeaways: **Setting up development and test sets**](12.takeaways_setting-up-development-and-test-sets.md)
+13. [Build your first system quickly, then iterate](13.build-your-first-system-quickly-then-iterate.md) **Update to Here**
 14. [Error analysis: Look at dev set examples to evaluate ideas](14.error-analysis_look-at-dev-set-examples-to-evaluate-ideas.md)
 15. [Evaluating multiple ideas in parallel during error analysis](15.evaluating-multiple-ideas-in-parallel-during-error-analysis.md)
 16. [Cleaning up mislabeled dev and test set examples](16.cleaning-up-mislabeled-dev-and-test-set-examples.md)
