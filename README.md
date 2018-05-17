@@ -17,8 +17,8 @@
 14. [Error analysis: Look at dev set examples to evaluate ideas](14.error-analysis_look-at-dev-set-examples-to-evaluate-ideas.md)
 15. [Evaluating multiple ideas in parallel during error analysis](15.evaluating-multiple-ideas-in-parallel-during-error-analysis.md) **Update to Here**
 16. [Cleaning up mislabeled dev and test set examples](16.cleaning-up-mislabeled-dev-and-test-set-examples.md)
-17. [If you have a large dev set, split it into two subsets, only one of which you look at](17.if-you-have-a-large-dev-set-split-it-into-two-subsets-only-one-of-which-you-look-at.md) **Update to Here**
-18. [How big should the Eyeball and Blackbox dev sets be?](18.how-big-should-the-Eyeball-and-Blackbox-dev-sets-be.md)
+17. [If you have a large dev set, split it into two subsets, only one of which you look at](17.if-you-have-a-large-dev-set-split-it-into-two-subsets-only-one-of-which-you-look-at.md)
+18. [How big should the Eyeball and Blackbox dev sets be?](18.how-big-should-the-Eyeball-and-Blackbox-dev-sets-be.md) **Update to Here**
 19. [Takeaways: Basic error analysis](19.takeaways_basic-error-analysis.md) 
 20. [Bias and Variance: The two big sources of error]()
 21. [Examples of Bias and Variance ]()
@@ -38,3 +38,7 @@ TO IMPROVE:
 [Chapter 15-19](draft-copy-of-machine-learning-yearning/Ng_MLY02-15-19.pdf)
 
 [Chapter 20-22](draft-copy-of-machine-learning-yearning/Ng_MLY03-20-22.pdf)
+
+[Chapter 23-27](draft-copy-of-machine-learning-yearning/Ng_MLY04-23-27.pdf)
+
+[Chapter 28-30](draft-copy-of-machine-learning-yearning/Ng_MLY03-28-30.pdf)
