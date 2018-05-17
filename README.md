@@ -19,8 +19,8 @@
 16. [Cleaning up mislabeled dev and test set examples](16.cleaning-up-mislabeled-dev-and-test-set-examples.md)
 17. [If you have a large dev set, split it into two subsets, only one of which you look at](17.if-you-have-a-large-dev-set-split-it-into-two-subsets-only-one-of-which-you-look-at.md)
 18. [How big should the Eyeball and Blackbox dev sets be?](18.how-big-should-the-Eyeball-and-Blackbox-dev-sets-be.md)
-19. [Takeaways: Basic error analysis](19.takeaways_basic-error-analysis.md)  **Update to Here**
-20. [Bias and Variance: The two big sources of error](20.bias-and-variance_the-two-big-sources-of-error.md)
+19. [Takeaways: Basic error analysis](19.takeaways_basic-error-analysis.md)
+20. [Bias and Variance: The two big sources of error](20.bias-and-variance_the-two-big-sources-of-error.md)  **Update to Here**
 21. [Examples of Bias and Variance](21.examples-of-bias-and-variance.md)
 22. [Comparing to the optimal error rate](22.comparing-to-the-optimal-error-rate.md)
 23. [Addressing Bias and Variance](23.addressing-bias-and-variance.md)
@@ -31,7 +31,32 @@
 28. [Diagnosing bias and variance: Learning curves](28.diagnosing-bias-and-variance_learning-curves.md)
 29. [Plotting training error](29.plotting-training-error.md)
 30. [Interpreting learning curves: High bias](30.interpreting-learning-curves_high-bias.md)
-31. ...
+31. [Interpreting learning curves: Other cases]()
+32. [Plotting learning curves]()
+33. [Why we compare to human-level performance]()
+34. [How to define human-level performance]()
+35. [Surpassing human-level performance]()
+36. [Why train and test on different distributions]()
+37. [Whether to use all your data]()
+38. [Whether to include inconsistent data]()
+39. [Weighting data]()
+40. [Generalizing from the training set to the dev set]()
+41. [Addressing Bias,  and Variance, and Data Mismatch]()
+42. [Addressing data mismatch]()
+43. [Artificial data synthesis]()
+44. [The Optimization Verification test]()
+45. [General form of Optimization Verification test]()
+46. [Reinforcement learning example]()
+47. [The rise of end-to-end learning]()
+48. [More end-to-end learning examples]()
+49. [Pros and cons of end-to-end learning]()
+50. [Learned sub-components]()
+51. [Directly learning rich outputs]()
+52. [Error Analysis by Parts]()
+53. [Beyond supervised learning: What’s next?]()
+54. [Building a superhero team - Get your teammates to read this]()
+55. [Big picture]()
+56. [Credits]()
 
 TO IMPROVE:
 - Write Math Equations with MathJax, HTML.
@@ -51,3 +76,5 @@ TO IMPROVE:
 [Chapter 23-27](draft-copy-of-machine-learning-yearning/Ng_MLY04-23-27.pdf)
 
 [Chapter 28-30](draft-copy-of-machine-learning-yearning/Ng_MLY05-28-30.pdf)
+
+[Chapter ...]
