@@ -20,17 +20,17 @@
 17. [If you have a large dev set, split it into two subsets, only one of which you look at](17.if-you-have-a-large-dev-set-split-it-into-two-subsets-only-one-of-which-you-look-at.md)
 18. [How big should the Eyeball and Blackbox dev sets be?](18.how-big-should-the-Eyeball-and-Blackbox-dev-sets-be.md)
 19. [Takeaways: Basic error analysis](19.takeaways_basic-error-analysis.md)  **Update to Here**
-20. [Bias and Variance: The two big sources of error]()
-21. [Examples of Bias and Variance ]()
-22. [Comparing to the optimal error rate]()
-23. []()
-24. []()
-25. []()
-26. []()
-27. []()
-28. []()
-29. []()
-30. []()
+20. [Bias and Variance: The two big sources of error](20.bias-and-variance_the-two-big-sources-of-error.md)
+21. [Examples of Bias and Variance](21.examples-of-bias-and-variance.md)
+22. [Comparing to the optimal error rate](22.comparing-to-the-optimal-error-rate.md)
+23. [Addressing Bias and Variance](23.addressing-bias-and-variance.md)
+24. [Bias vs. Variance tradeoff](24.bias-vs-variance-tradeoff.md)
+25. [Techniques for reducing avoidable bias](25.techniques-for-reducing-avoidable-bias.md)
+26. [Error analysis on the training set](26.error-analysis-on-the-training-set.md)
+27. [Techniques for reducing variance](27.techniques-for-reducing-variance.md)
+28. [Diagnosing bias and variance: Learning curves](28.diagnosing-bias-and-variance_learning-curves.md)
+29. [Plotting training error](29.plotting-training-error.md)
+30. [Interpreting learning curves: High bias](30.interpreting-learning-curves_high-bias.md)
 31. ...
 
 TO IMPROVE:
