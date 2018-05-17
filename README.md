@@ -15,14 +15,23 @@
 12. [Takeaways: **Setting up development and test sets**](12.takeaways_setting-up-development-and-test-sets.md)
 13. [Build your first system quickly, then iterate](13.build-your-first-system-quickly-then-iterate.md)
 14. [Error analysis: Look at dev set examples to evaluate ideas](14.error-analysis_look-at-dev-set-examples-to-evaluate-ideas.md)
-15. [Evaluating multiple ideas in parallel during error analysis](15.evaluating-multiple-ideas-in-parallel-during-error-analysis.md) **Update to Here**
+15. [Evaluating multiple ideas in parallel during error analysis](15.evaluating-multiple-ideas-in-parallel-during-error-analysis.md)
 16. [Cleaning up mislabeled dev and test set examples](16.cleaning-up-mislabeled-dev-and-test-set-examples.md)
 17. [If you have a large dev set, split it into two subsets, only one of which you look at](17.if-you-have-a-large-dev-set-split-it-into-two-subsets-only-one-of-which-you-look-at.md)
-18. [How big should the Eyeball and Blackbox dev sets be?](18.how-big-should-the-Eyeball-and-Blackbox-dev-sets-be.md) **Update to Here**
-19. [Takeaways: Basic error analysis](19.takeaways_basic-error-analysis.md) 
+18. [How big should the Eyeball and Blackbox dev sets be?](18.how-big-should-the-Eyeball-and-Blackbox-dev-sets-be.md)
+19. [Takeaways: Basic error analysis](19.takeaways_basic-error-analysis.md)  **Update to Here**
 20. [Bias and Variance: The two big sources of error]()
 21. [Examples of Bias and Variance ]()
 22. [Comparing to the optimal error rate]()
+23. []()
+24. []()
+25. []()
+26. []()
+27. []()
+28. []()
+29. []()
+30. []()
+31. ...
 
 TO IMPROVE:
 - Write Math Equations with MathJax, HTML.
