@@ -1,18 +1,3 @@
-<!-- mathjax config similar to math.stackexchange -->
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-    jax: ["input/TeX", "output/HTML-CSS"],
-    tex2jax: {
-        inlineMath: [ ['$', '$'] ],
-        displayMath: [ ['$$', '$$']],
-        processEscapes: true,
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-    },
-    messageStyle: "none",
-    "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
-});
-</script>
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 # Machine Learning Yearning 机器学习秘籍
 ## Chinese Translation of [Machine Learning Yearning](http://www.mlyearning.org/) by [Andrew Ng](http://www.andrewng.org/)
 [How do you organize an AI project?](How-do-you-organize-an-AI-project.md)
@@ -72,6 +57,9 @@ MathJax.Hub.Config({
 54. [Building a superhero team - Get your teammates to read this]()
 55. [Big picture]()
 56. [Credits]()
+
+TO IMPROVE:
+- Write Math Equations with MathJax, HTML.
 
 ### 英文原文
 
