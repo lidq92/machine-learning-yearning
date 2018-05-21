@@ -20,8 +20,8 @@
 17. [If you have a large dev set, split it into two subsets, only one of which you look at](17.if-you-have-a-large-dev-set-split-it-into-two-subsets-only-one-of-which-you-look-at.md)
 18. [How big should the Eyeball and Blackbox dev sets be?](18.how-big-should-the-Eyeball-and-Blackbox-dev-sets-be.md)
 19. [Takeaways: Basic error analysis](19.takeaways_basic-error-analysis.md)
-20. [Bias and Variance: The two big sources of error](20.bias-and-variance_the-two-big-sources-of-error.md)  **Update to Here**
-21. [Examples of Bias and Variance](21.examples-of-bias-and-variance.md)
+20. [Bias and Variance: The two big sources of error](20.bias-and-variance_the-two-big-sources-of-error.md)
+21. [Examples of Bias and Variance](21.examples-of-bias-and-variance.md)  **Update to Here**
 22. [Comparing to the optimal error rate](22.comparing-to-the-optimal-error-rate.md)
 23. [Addressing Bias and Variance](23.addressing-bias-and-variance.md)
 24. [Bias vs. Variance tradeoff](24.bias-vs-variance-tradeoff.md)
