@@ -28,9 +28,9 @@
 25. [Techniques for reducing avoidable bias](25.techniques-for-reducing-avoidable-bias.md)  **Update to Here**
 26. [Error analysis on the training set](26.error-analysis-on-the-training-set.md) **Update to Here**
 27. [Techniques for reducing variance](27.techniques-for-reducing-variance.md) 
-28. [Diagnosing bias and variance: Learning curves](28.diagnosing-bias-and-variance_learning-curves.md)  **Update to Here**
+28. [Diagnosing bias and variance: Learning curves](28.diagnosing-bias-and-variance_learning-curves.md)
 29. [Plotting training error](29.plotting-training-error.md)
-30. [Interpreting learning curves: High bias](30.interpreting-learning-curves_high-bias.md)
+30. [Interpreting learning curves: High bias](30.interpreting-learning-curves_high-bias.md)  **Update to Here**
 31. [Interpreting learning curves: Other cases]()
 32. [Plotting learning curves]()
 33. [Why we compare to human-level performance]()
