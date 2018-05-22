@@ -24,8 +24,8 @@
 21. [Examples of Bias and Variance](21.examples-of-bias-and-variance.md)
 22. [Comparing to the optimal error rate](22.comparing-to-the-optimal-error-rate.md)
 23. [Addressing Bias and Variance](23.addressing-bias-and-variance.md)
-24. [Bias vs. Variance tradeoff](24.bias-vs-variance-tradeoff.md)  **Update to Here**
-25. [Techniques for reducing avoidable bias](25.techniques-for-reducing-avoidable-bias.md)
+24. [Bias vs. Variance tradeoff](24.bias-vs-variance-tradeoff.md)
+25. [Techniques for reducing avoidable bias](25.techniques-for-reducing-avoidable-bias.md)  **Update to Here**
 26. [Error analysis on the training set](26.error-analysis-on-the-training-set.md)
 27. [Techniques for reducing variance](27.techniques-for-reducing-variance.md)
 28. [Diagnosing bias and variance: Learning curves](28.diagnosing-bias-and-variance_learning-curves.md)
