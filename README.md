@@ -27,7 +27,7 @@
 24. [Bias vs. Variance tradeoff](24.bias-vs-variance-tradeoff.md)
 25. [Techniques for reducing avoidable bias](25.techniques-for-reducing-avoidable-bias.md)  **Update to Here**
 26. [Error analysis on the training set](26.error-analysis-on-the-training-set.md) **Update to Here**
-27. [Techniques for reducing variance](27.techniques-for-reducing-variance.md)
+27. [Techniques for reducing variance](27.techniques-for-reducing-variance.md) **Update to Here**
 28. [Diagnosing bias and variance: Learning curves](28.diagnosing-bias-and-variance_learning-curves.md)
 29. [Plotting training error](29.plotting-training-error.md)
 30. [Interpreting learning curves: High bias](30.interpreting-learning-curves_high-bias.md)
