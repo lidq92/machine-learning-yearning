@@ -30,12 +30,12 @@
 27. [Techniques for reducing variance](27.techniques-for-reducing-variance.md) 
 28. [Diagnosing bias and variance: Learning curves](28.diagnosing-bias-and-variance_learning-curves.md)
 29. [Plotting training error](29.plotting-training-error.md)
-30. [Interpreting learning curves: High bias](30.interpreting-learning-curves_high-bias.md)  **Update to Here**
+30. [Interpreting learning curves: High bias](30.interpreting-learning-curves_high-bias.md)
 31. [Interpreting learning curves: Other cases](31.interpreting-learning-curves_other-cases.md)
 32. [Plotting learning curves](32.plotting-learning-curves.md)
 33. [Why we compare to human-level performance](33.why-we-compare-to-human-level-performance.md)
 34. [How to define human-level performance](34.how-to-define-human-level-performance.md)
-35. [Surpassing human-level performance](35.surpassing-human-level-performance.md)
+35. [Surpassing human-level performance](35.surpassing-human-level-performance.md)  **Update to Here**
 36. [Why train and test on different distributions](36.why-train-and-test-on-different-distributions.md)
 37. [Whether to use all your data](37.whether-to-use-all-your-data.md)
 38. [Whether to include inconsistent data](whether-to-include-inconsistent-data.md)
