@@ -85,4 +85,6 @@ TO IMPROVE:
 
 [Chapter 40-43](draft-copy-of-machine-learning-yearning/Ng_MLY09-40-43.pdf)
 
+[Chapter 44-46](draft-copy-of-machine-learning-yearning/Ng_MLY10-44-46.pdf)
+
 [Chapter ...]
