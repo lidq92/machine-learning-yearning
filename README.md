@@ -37,8 +37,8 @@
 34. [How to define human-level performance](34.how-to-define-human-level-performance.md)
 35. [Surpassing human-level performance](35.surpassing-human-level-performance.md) 
 36. [Why train and test on different distributions](36.why-train-and-test-on-different-distributions.md)
-37. [Whether to use all your data](37.whether-to-use-all-your-data.md) **Update to Here**
-38. [Whether to include inconsistent data](38.whether-to-include-inconsistent-data.md)
+37. [Whether to use all your data](37.whether-to-use-all-your-data.md)
+38. [Whether to include inconsistent data](38.whether-to-include-inconsistent-data.md) **Update to Here**
 39. [Weighting data](39.weighting-data.md)
 40. [Generalizing from the training set to the dev set](40.generalizing-from-the-training-set-to-the-dev-set.md)
 41. [Addressing Bias,  and Variance, and Data Mismatch](41.addressing-bias-and-variance-and-data-mismatch.md)
