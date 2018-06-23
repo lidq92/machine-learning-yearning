@@ -40,8 +40,8 @@
 37. [Whether to use all your data](37.whether-to-use-all-your-data.md)
 38. [Whether to include inconsistent data](38.whether-to-include-inconsistent-data.md)
 39. [Weighting data](39.weighting-data.md)
-40. [Generalizing from the training set to the dev set](40.generalizing-from-the-training-set-to-the-dev-set.md) **Update to Here**
-41. [Identifying Bias,  and Variance, and Data Mismatch](41.identifying-bias-and-variance-and-data-mismatch.md)
+40. [Generalizing from the training set to the dev set](40.generalizing-from-the-training-set-to-the-dev-set.md)
+41. [Identifying Bias,  and Variance, and Data Mismatch](41.identifying-bias-and-variance-and-data-mismatch.md) **Update to Here**
 42. [Addressing data mismatch](42.addressing-data-mismatch.md)
 43. [Artificial data synthesis](43.artificial-data-synthesis.md)
 44. [The Optimization Verification test](44.the-optimization-verification-test.md)
