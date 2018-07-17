@@ -1,5 +1,7 @@
 # Machine Learning Yearning 机器学习秘籍
 ## Chinese Translation of [Machine Learning Yearning](http://www.mlyearning.org/) by [Andrew Ng](http://www.andrewng.org/)
+[AcceptedDoge/machine-learning-yearning-cn](https://github.com/AcceptedDoge/machine-learning-yearning-cn) 已获得Andrew Ng授权中文版翻译，有兴趣者可点击链接参与翻译。此仓库仅供我个人学习使用。
+
 [How do you organize an AI project?](How-do-you-organize-an-AI-project.md)
 1. [Why Machine Learning Strategy](1.why-machine-learning-strategy.md) 
 2. [How to use this book to help your team](2.how-to-use-this-book-to-help-your-team.md)
