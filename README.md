@@ -65,7 +65,7 @@ TO IMPROVE:
 
 ### 英文原文
 
-当前更新到了22章，详见 `draft-copy-of-machine-learning-yearning` 目录：
+当前更新了所有章节，共58章，详见 `draft-copy-of-machine-learning-yearning` 目录：
 
 [Introduction](draft-copy-of-machine-learning-yearning/introduction.md)
 
