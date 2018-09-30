@@ -95,4 +95,4 @@ TO IMPROVE:
 
 [Chapter 53-58](draft-copy-of-machine-learning-yearning/Ng_MLY13-53-58.pdf)
 
-[Download All Chapters](draft-copy-of-machine-learning-yearning/Ng_MLY1_13.pdf)
+[Download All Chapters](draft-copy-of-machine-learning-yearning/Ng_MLY01_13.pdf)
