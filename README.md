@@ -62,6 +62,7 @@
 
 TO IMPROVE:
 - Write Math Equations with MathJax, HTML.
+- 最新版章节更新与此不一致，等有空再看了。
 
 ### 英文原文
 
